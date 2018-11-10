@@ -1,5 +1,11 @@
-th, td {
-  border: 1px;
-  padding: 7px;
+table, th, td {
+  border: 1px solid black;
+  padding: 15px;
   border-collapse: collapse;
+  width: 50%;
+  text-align: center;
+}
+
+#thbg {
+  background-color: grey;
 }
